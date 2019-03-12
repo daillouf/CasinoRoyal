@@ -9,6 +9,7 @@ numpy = "*"
 sklearn = "*"
 matplotlib = "*"
 jupyter = "*"
+pip = "==18"
 
 [dev-packages]
 
