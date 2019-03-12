@@ -1,7 +1,3 @@
 .DS_Store
-bin
-lib
-include
-etc
 .ipynb_checkpoints/
-share/
+venv/
